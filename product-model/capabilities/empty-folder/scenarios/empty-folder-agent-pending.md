@@ -17,7 +17,7 @@
       }
     },
     {
-      "text": "Valid inputs select the configured confirmation flow.",
+      "text": "The request inputs are valid.",
       "kind": "condition",
       "entities": [],
       "contexts": {
@@ -115,7 +115,7 @@
 
 ## Trigger
 
-Valid inputs select the configured confirmation flow.
+The request inputs are valid.
 
 ## Outcome
 

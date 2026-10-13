@@ -17,7 +17,7 @@
       }
     },
     {
-      "text": "Valid inputs select the configured direct flow.",
+      "text": "The request inputs are valid.",
       "kind": "condition",
       "entities": [],
       "contexts": {
@@ -56,7 +56,7 @@
       "actor": "mcp-client"
     },
     {
-      "text": "Begin configured direct execution after current binding and input rechecks.",
+      "text": "Begin direct execution after current binding and input rechecks.",
       "kind": "product",
       "entities": [
         {
@@ -173,7 +173,7 @@
 
 ## Trigger
 
-Valid inputs select the configured direct flow.
+The request inputs are valid.
 
 ## Outcome
 
