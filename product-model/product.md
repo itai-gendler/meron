@@ -71,3 +71,7 @@
 # Meron
 
 Meron connects mail accounts and RSS/Atom subscriptions on desktop, Android and iOS. People read conversations or individual messages, compose and send mail, organize conversations through folder-backed Kanban boards, and maintain local Tasks. Desktop optionally exposes selected mail, feed and configuration abilities through a local MCP client contract.
+
+## Intent
+
+Bring mail accounts and RSS/Atom feeds into one fast, secure app on desktop and mobile, so people can read and organize them as a unified inbox, chat-style conversations or Kanban boards.
